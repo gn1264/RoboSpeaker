@@ -7,7 +7,7 @@ def speak_text(text, language='en', slow=False):
     os.system("start output.mp3")
 
 if __name__ == "__main__":
-    print("Welcome to RoboSpeaker 1.0. Created by Gaurav")
+    print("Welcome to RoboSpeaker Created by Gaurav")
     print("Instructions:")
     print("1. Type 'q' to exit.")
     print("2. Type 'Settings' to configure language and speech speed.")
